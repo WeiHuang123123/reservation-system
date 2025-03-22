@@ -1,0 +1,10 @@
+# 忽略 Visual Studio 產生的檔案
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# 忽略 NuGet 相關檔案
+packages/
+project.lock.json
